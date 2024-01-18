@@ -1,10 +1,9 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Carolina Queiroz!
 
-## Sobre Mim
-Desenvolvedora Front-End em formação. Estudante de Engenharia da Computação. Sou uma entusiasta da tecnologia, apaixonada por esportes, arte e culinária. Como uma constante aprendiz, estou sempre buscando aprender e me manter atualizada em diversas áreas. Acredito no poder da colaboração e estou comprometida em contribuir para o crescimento da comunidade.
-Atualmente procurando uma oportunidade como Dev Jr. 🤖
+## Front-End Developer👩‍💻
+Front-End Developer in training. Computer Engineering student. I'm a technology enthusiast, passionate about game, sports, art, and cooking. As a constant learner, I'm always seeking to learn and stay updated in various areas. I believe in the power of collaboration and am committed to contributing to community growth. Currently looking for an opportunity as a Dev Jr. 🤖
 
-## Tecnologias
+### Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -12,20 +11,18 @@ Atualmente procurando uma oportunidade como Dev Jr. 🤖
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Interesses
-- 💻 Tecnologia e Desenvolvimento
-- ⚽ Esportes
-- 🎨 Arte
-- 🍳 Culinária
+### 🌱 Technologies I'm learning
+- 💻 JavaScript, Angular, HTML and CSS are the technologies I'm deepening my knowledge in.
+- 😁​ I also have an interest in learning Vue.js and React.js.
 
-## O Que Estou Fazendo Atualmente
-Atualmente, estou explorando novas tecnologias, trabalhando em projetos pessoais e colaborando em projetos de código aberto. Estou sempre em busca de desafios interessantes e oportunidades de aprendizado.
+### 🫣 What I'm Currently Doing
+Currently, I'm exploring new technologies, working on personal projects, and contributing to open-source projects. I'm always seeking interesting challenges and learning opportunities.
 
-## Como Posso Contribuir
-Se você compartilha interesses semelhantes ou tem projetos emocionantes, adoraria saber mais sobre eles! Estou aberta para colaborações, feedbacks e novas conexões. Vamos aprender e crescer juntos!
+### 🚀​ How Can I Contribute
+If you share similar interests or have exciting projects, I would love to learn more about them! I am open to collaborations, feedback, and new connections. Let's learn and grow together!
 
-## Vamos Conectar!
-- 💬 Sinta-se à vontade para me enviar uma mensagem.
+### Let's Connect!
+- 💬 Feel free to send me a message.
 <div> 
   <a href="https://instagram.com/caqueirozx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/caqueirozx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -34,7 +31,24 @@ Se você compartilha interesses semelhantes ou tem projetos emocionantes, adorar
   
 </div>
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=caqueirozdev&show_icons=true&theme=dark)
+### My GitHub 🎯
+<details>
+  <summary> 👩🏽‍🎓 Engagement Level </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=caqueirozdev&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> 🔥 Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=caqueirozdev&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> 🗣️ Languages </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caqueirozdev&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
 
-**Obrigada por visitar meu perfil! Espero que possamos colaborar e aprender juntos. 🚀**
+**Thank you for visiting my profile! I hope we can collaborate and learn together. 🚀**
