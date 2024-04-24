@@ -12,8 +12,8 @@ Front-End Developer in training. Computer Engineering student. I'm a technology 
 </div>
 
 ### 🌱 Technologies I'm learning
-- 💻 JavaScript, Angular, HTML and CSS are the technologies I'm deepening my knowledge in.
-- 😁​ I also have an interest in learning Vue.js and React.js.
+- 💻 JavaScript, React, HTML, Typescript and CSS are the technologies I'm deepening my knowledge in.
+- 😁​ I also have an interest in learning C#, Python and React.js.
 
 ### 🫣 What I'm Currently Doing
 Currently, I'm exploring new technologies, working on personal projects, and contributing to open-source projects. I'm always seeking interesting challenges and learning opportunities.
