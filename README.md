@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Carolina Queiroz!
 
-## Front-End Developer👩‍💻
-Front-End Developer in training. Computer Engineering student. I'm a technology enthusiast, passionate about game, sports, art, and cooking. As a constant learner, I'm always seeking to learn and stay updated in various areas. I believe in the power of collaboration and am committed to contributing to community growth. Currently looking for an opportunity as a Dev Jr. 🤖
+## Software Developer👩‍💻
+Software Developer in training. Computer Engineering student. I'm a technology enthusiast, passionate about game, sports, art, and cooking. As a constant learner, I'm always seeking to learn and stay updated in various areas. I believe in the power of collaboration and am committed to contributing to community growth. Currently looking for an opportunity as a Dev Jr. 🤖
 
 ### Technologies
 <div style="display: inline_block"><br>
@@ -13,7 +13,7 @@ Front-End Developer in training. Computer Engineering student. I'm a technology 
 
 ### 🌱 Technologies I'm learning
 - 💻 JavaScript, React, HTML, Typescript and CSS are the technologies I'm deepening my knowledge in.
-- 😁​ I also have an interest in learning C#, Python and React.js.
+- 😁​ I also have an interest in learning C#, Python, MongoDB and React.js.
 
 ### 🫣 What I'm Currently Doing
 Currently, I'm exploring new technologies, working on personal projects, and contributing to open-source projects. I'm always seeking interesting challenges and learning opportunities.
