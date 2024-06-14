@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Carolina Queiroz!
 
 ## Software Developer👩‍💻
-Software Developer in training. Computer Engineering student. I'm a technology enthusiast, passionate about game, sports, art, and cooking. As a constant learner, I'm always seeking to learn and stay updated in various areas. I believe in the power of collaboration and am committed to contributing to community growth. Currently looking for an opportunity as a Dev Jr. 🤖
+Software Developer in training. Systems Analysis and Development student. I'm a technology enthusiast, passionate about game, sports, art, and cooking. As a constant learner, I'm always seeking to learn and stay updated in various areas. I believe in the power of collaboration and am committed to contributing to community growth. Currently looking for an opportunity as a Dev Jr. 🤖
 
 ### Technologies
 <div style="display: inline_block"><br>
