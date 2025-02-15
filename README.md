@@ -17,8 +17,8 @@ Software Developer in training. Systems Analysis and Development student. I'm a 
 </div>
 
 ### 🌱 Technologies I'm learning
-- 💻 JavaScript, React, HTML, Typescript and CSS are the technologies I'm deepening my knowledge in.
-- 😁​ I also have an interest in learning C#, Python, MongoDB, MySQL and Next.js.
+- 💻 JavaScript, React, HTML, Python and CSS are the technologies I'm deepening my knowledge in.
+- 😁​ I also have an interest in learning C#, MongoDB, MySQL and Next.js.
 
 ### 🫣 What I'm Currently Doing
 Currently, I'm exploring new technologies, working on personal projects, and contributing to open-source projects. I'm always seeking interesting challenges and learning opportunities.
