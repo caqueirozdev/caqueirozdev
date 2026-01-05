@@ -1,7 +1,12 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Carolina Queiroz!
 
-## Software Developer👩‍💻
-Software Developer in training. Systems Analysis and Development student. I'm a technology enthusiast, passionate about game, sports, art, and cooking. As a constant learner, I'm always seeking to learn and stay updated in various areas. I believe in the power of collaboration and am committed to contributing to community growth. Currently looking for an opportunity as a Dev Jr. 🤖
+## DevOps Engineer👩‍💻
+DevOps Engineer in early career, focused on infrastructure automation, cloud fundamentals, and CI/CD pipelines.
+
+Currently studying Systems Analysis and Development and building hands-on projects with Docker, Linux, Git, and cloud-based workflows. I have experience with front-end development, which helps me collaborate efficiently with development teams and understand the full software delivery lifecycle.
+
+I am seeking remote opportunities as a **Junior DevOps Engineer / DevOps Intern / Cloud Engineer (Junior)**, where I can contribute to reliable, scalable, and automated systems.
+
 
 ### Technologies
 <div style="display: inline_block"><br>
